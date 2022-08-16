@@ -1,4 +1,4 @@
-# 1. Estructura
+# Estructura de informe
 
  
 

@@ -1,4 +1,7 @@
-# PracticaProfesional
+# Prácticas Profesionales DCC - Universidad de Chile
 
-Everything related to practica profesional. 
-Los ejemplos de informes son _ejemplos_, y no pueden ser usado como base normativa. El archivo _PracticasProfesionales.pdf_ describe la normativa.
+Todo lo relacionado a las prácticas profesionales.
+
+[Plan de práctica](./plan.md): aquí puedes encontrar la información relacionada a la pre-inscripción de las prácticas.
+
+[Informe de práctica](./pauta.md): aquí puedes encontrar la información relacionada a la escritura del informe de práctica.
